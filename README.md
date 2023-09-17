@@ -1,2 +1,2 @@
-# projets initiation de base web
+# projets initiation de bases web
 exercice teste création site web
